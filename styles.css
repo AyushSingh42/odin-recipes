@@ -2,6 +2,18 @@ h1 {
     font-family: 'Copperplate', 'Papyrus', fantasy;
 }
 
-p {
+.description {
     text-align: center;
+}
+
+.sectiontitles {
+    font-family:'Courier New', Courier, monospace;
+}
+
+ol {
+    background-color: lightblue;
+}
+
+ul {
+    background-color: lightcoral;
 }
